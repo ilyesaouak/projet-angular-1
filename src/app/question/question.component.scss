@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family:  sans-serif;
+    background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/06/Abstract-Backgrounds-HD-For-Desktop.jpg');
+  background-size: cover;
+  background-position: center;
+  }
+  
+  .question-box {
+    max-width: 400px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 2em;
+    color: black;
+    margin-bottom: 20px;
+  }
+  

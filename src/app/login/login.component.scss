@@ -1,0 +1,29 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/06/HD-Abstract-Backgrounds.jpg'); 
+  background-size: cover; 
+  background-position: center;
+  
+    .login-box {
+      background-color: lightblue; 
+      padding: 40px; 
+      border-radius: 8px;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+      text-align: center;
+  
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+  
+      h2 {
+        margin-bottom: 20px; 
+
+      }
+    }
+  }
+  
